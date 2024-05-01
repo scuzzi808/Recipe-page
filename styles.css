@@ -147,6 +147,10 @@ tr {
     img {
         border-radius: 0;
     }
+    footer {
+        display: none;
+        visibility: hidden;
+    }
 }
 
 
